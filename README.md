@@ -1,4 +1,4 @@
-# candlesticks-cnn
+# Candlesticks-CNN
 
 Implementation of paper: Using Deep Learning Neural Networks and Candlestick Chart Representation to Predict Stock Market (https://arxiv.org/abs/1903.12258)
 
