@@ -1,6 +1,6 @@
 # Trading
 
-Applying different ML methods on market.
+Applying different ML methods on market data.
 
 CNN-candlesticks: Applying CNN to candlestick charts to predict future stock market.
 
