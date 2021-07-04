@@ -8,4 +8,4 @@ Clustering: DBSCAN the stock market into clusters and visualize with t-SNE.
 
 Quantopian: Deprecated code using Quantopian platform for backtesting.
 
-Strategies_online: Source from joinquant
+strategies_online: Source from joinquant
